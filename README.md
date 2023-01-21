@@ -2,7 +2,7 @@
 
 **Welcome to my Github Profile!**
 
-I´m Jonathan, 18 years old, currently trying to master python and create software to help people make there lives more easier
+I´m Jonathan, 19 years old, currently trying to master python and create software to help people make there lives more easier
 
 You can find me on [Twitter](https://twitter.com/pulledstock) or discord at jojo#5555 😄
 
